@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore build artifacts
+dist
+
+# Ignore any files that start with a dot
+.*
+
+# Ignore any files that end with .log
+*.log
+
+# Ignore any files that end with .swp
+*.swp
+
+# Ignore any files that end with .swo
+*.swo
+
+# Ignore any files that end with .DS_Store
+*.DS_Store
